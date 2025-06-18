@@ -1,4 +1,4 @@
-🐞 Check out my thesis, it is about predicting bugs in code **before** writing the code containing them!
+🐞 Check out my thesis, it is about predicting bugs in code **before they have been injected**!
 [slides_thesis.pdf](https://github.com/user-attachments/files/20803513/slides_thesis.pdf)
 
 ### Me in numbers
